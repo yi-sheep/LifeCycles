@@ -2,6 +2,6 @@
 
 演示视频
 
-  <video src="https://yi-sheep.github.io/LifeCycles/Res/MP4/1.mp4"></video>
+<video src="https://yi-sheep.github.io/LifeCycles/Res/MP4/1.mp4" autoplay loop muted></video>
 
 [无法观看点击](https://yi-sheep.github.io/LifeCycles/Res/MP4/1.mp4)
